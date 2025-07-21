@@ -6,9 +6,6 @@
   <a href="https://wa.me/5543999171501" target="_blank" rel="noopener noreferrer" title="Contato via WhatsApp">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&style=for-the-badge" alt="WhatsApp" />
   </a>
-  <a href="tg://resolve?phone=5543999171501" title="Contato via Telegram">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=229ED9&style=for-the-badge" alt="Telegram" />
-  </a>
   <a href="mailto:lucamargostivan@gmail.com" target="_blank" rel="noopener noreferrer" title="Enviar e-mail">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=EA4335&style=for-the-badge" alt="Gmail" />
   </a>
@@ -26,14 +23,14 @@ Sou **Stivan Lucas**, Engenheiro de Software Full Stack, dedicado a criar soluç
 
 > _"Tecnologia não é apenas código, é a ponte para um futuro melhor."_
 
-- 🔭 Trabalho com desenvolvimento de SaaS, microsserviços e APIs RESTful  
-- 🧠 Apaixonado por arquitetura de software, segurança e automação  
-- 📚 Especialista em Node.js, TypeScript, PostgreSQL, Redis e Docker  
-- ☁️ Experiência com Kubernetes e pipelines CI/CD  
-- 🧪 Prática constante com testes automatizados (unitários, integração, E2E)  
-- 👥 Focado em metodologias ágeis e trabalho colaborativo  
-- ⚡ Gamer nas horas vagas e entusiasta em compartilhamento de conhecimento  
-- 📍 Ivaiporã - PR | Aberto a oportunidades remotas, híbridas ou presenciais  
+- 🔭 Trabalho com desenvolvimento de SaaS, microsserviços e APIs RESTful
+- 🧠 Apaixonado por arquitetura de software, segurança e automação
+- 📚 Especialista em Node.js, TypeScript, PostgreSQL, Redis e Docker
+- ☁️ Experiência com Kubernetes e pipelines CI/CD
+- 🧪 Prática constante com testes automatizados (unitários, integração, E2E)
+- 👥 Focado em metodologias ágeis e trabalho colaborativo
+- ⚡ Gamer nas horas vagas e entusiasta em compartilhamento de conhecimento
+- 📍 Ivaiporã - PR | Aberto a oportunidades remotas, híbridas ou presenciais
 
 ---
 
@@ -64,13 +61,13 @@ Sou **Stivan Lucas**, Engenheiro de Software Full Stack, dedicado a criar soluç
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ⚙️ DevOps & Infraestrutura
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 📱 Mobile
 
