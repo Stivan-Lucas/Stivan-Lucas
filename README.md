@@ -94,7 +94,6 @@ Sou **Stivan Lucas**, Engenheiro de Software Full Stack, dedicado a criar soluç
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stivan-Lucas&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stivan-Lucas&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
